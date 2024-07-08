@@ -8,12 +8,13 @@ titleTemplate: 开发喵AI，人人都可以使用AI
 hero:
   name: g~Nj$3J2^
   text: 开发喵AI，人人都可以使用AI
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
-  目前在做的方向：
+    目前在做的方向：
   AI内容创作
   AI课程体系创建，包括但不限于文本，视频，音频
   公众号，小红书，视频号，即刻等自媒体平台
   AI下游应用的商业化探索
+  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+
 
   image:
     src: /logo.svg
